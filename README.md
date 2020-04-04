@@ -7,7 +7,7 @@ Currently, program places cities markers on world map, based on their longitude 
 - city air humidity reflected by marker size/color
 - continues data - program refreshes itself after some period of time
 
-Created with Jupyter Notebook IDE.
+Created with Jupyter Notebook 
 
 Code in file:
 
