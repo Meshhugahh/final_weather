@@ -6,3 +6,9 @@ Currently, program places cities markers on world map, based on their longitude 
 - local temperature placed next to the city marker
 - city air humidity reflected by marker size/color
 - continues data - program refreshes itself after some period of time
+
+Created with Jupyter Notebook IDE.
+
+Code in file:
+
+
